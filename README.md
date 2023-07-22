@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard that analyzes sales data to identi
 ## How to Access the Dashboard
 
 1. [Install Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
-2. Download the [Sales_Analytics_Dashboard.pbix]() file.
+2. Download the [Sales_Analytics_Dashboard.pbix](https://github.com/khushiyadav2022/Sales-Dashboard/blob/a17c8deb58f51931f70fbdfbca512c0fd2eff443/sales_dashboard.pbix) file.
 3. Open Power BI Desktop and load the downloaded file.
 4. Explore the dashboard to discover top products and customers!
 
