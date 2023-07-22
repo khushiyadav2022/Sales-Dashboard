@@ -13,7 +13,12 @@ This repository contains a Power BI dashboard that analyzes sales data to identi
 4. Explore the dashboard to discover top products and customers!
 
 ## Dashboard 
+For Video of Dashboard check out [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7087660442285699072/)
 
+![Sales_dashbord](https://github.com/khushiyadav2022/Sales-Dashboard/assets/108923908/3ee17785-2b33-4be0-a34b-7d762946308a)
+
+
+![Sales_dash](https://github.com/khushiyadav2022/Sales-Dashboard/assets/108923908/d0232626-7606-4999-a557-1f97114d3e6b)
 
 
 ## Feedback
